@@ -2,9 +2,14 @@
   "input": {
     "plaintext": "You can trust us to stick with you through thick and thin–to the bitter end. And you can trust us to keep any secret of yours–closer than you keep it yourself. But you cannot trust us to let you face trouble alone, and go off without a word. We are your friends, Frodo.",
     "key": {
+      "kty": "oct",
+      "kid": "81b20965-8332-43d9-a468-82160ad91ac8",
+      "use": "enc",
+      "alg": "A128KW",
+      "k": "GZy6sIZ6wl9NJOKB-jnmVQ"
     },
-    "alg": "",
-    "enc": "",
+    "alg": "A128KW",
+    "enc": "A128GCM",
     "aad": "[\"vcard\",[[\"version\",{},\"text\",\"4.0\"],[\"fn\",{},\"text\",\"MeriadocBrandybuck\"],[\"n\",{},\"text\",[\"Brandybuck\",\"Meriadoc\",\"Mr.\",\"\"]],[\"bday\",{},\"text\",\"TA2982\"],[\"gender\",{},\"text\",\"M\"]]]"
   },
   "generated": {
