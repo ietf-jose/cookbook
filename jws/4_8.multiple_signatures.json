@@ -43,7 +43,7 @@
       "protected": {
         "alg": "RS256"
       },
-      "protected_b64u": "",
+      "protected_b64u": "eyJhbGciOiJSUzI1NiJ9",
       "unprotected": {
         "kid": "bilbo.baggins@hobbiton.example"
       },
