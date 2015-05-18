@@ -1,4 +1,5 @@
 {
+  "title": "Nesting Signatures and Encryption",
   "sign": {
     "input": {
       "payload": "{\"iss\":\"hobbiton.example\",\"exp\":1300819380,\"http://example.com/is_root\":true}",
