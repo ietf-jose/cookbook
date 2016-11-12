@@ -7,6 +7,6 @@ The repository has three directories:
 * 'jwk' containing the JSON Web Key (JWK) examples
 * 'jws' containing the JSON Web Signature (JWS) examples
 * 'jwe' containing the JSON Web Encryption (JWE) examples
-* 'RFC7797' contains examples with b64=false
+* 'rfc7797' contains examples with b64=false
 
 Also included is "6.nesting_signatures_and_encryption.json" which contains the example nesting a JWS into a JWE.
