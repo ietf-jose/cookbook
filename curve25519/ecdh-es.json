@@ -32,7 +32,7 @@
             "kty":"OKP",
             "crv":"X25519",
             "x":"xvXHh3Q2S4VotXgBddGWD_KhnzYZ_euB2eaekLvvADU"
-        }
+        },
         "enc": "A128GCM"
     },
     "protected_b64u": "eyJhbGciOiJFQ0RILUVTIiwia2lkIjoiQm9iIiwiZXBrIjp7Imt0eSI6Ik9LUCIsImNydiI6IlgyNTUxOSIsIngiOiJ4dlhIaDNRMlM0Vm90WGdCZGRHV0RfS2huellaX2V1QjJlYWVrTHZ2QURVIn0sImVuYyI6IkExMjhHQ00ifQ",
