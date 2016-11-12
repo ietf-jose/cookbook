@@ -1,4 +1,6 @@
 {
+  "title": "'b64'=false JSON only",
+  "reproducible": true,
   "input": {
     "payload": "$.02",
     "key": {
@@ -19,7 +21,7 @@
     "sig": "GsyM6AQJbQHY8aQKCbZSPJHzMRWo3HKIlcDuXof7nqs"
   },
   "output": {
-      "json": {
+    "json": {
       "payload": "$.02",
       "signatures": [
         {
