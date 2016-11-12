@@ -8,5 +8,6 @@ The repository has three directories:
 * 'jws' containing the JSON Web Signature (JWS) examples
 * 'jwe' containing the JSON Web Encryption (JWE) examples
 * 'rfc7797' contains examples with b64=false
+* 'curve25519' contains examples for the 25519 and 448 CFRG curves
 
 Also included is "6.nesting_signatures_and_encryption.json" which contains the example nesting a JWS into a JWE.
